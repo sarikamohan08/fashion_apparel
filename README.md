@@ -31,4 +31,8 @@ python clientApp.py
 
 output screen
 
+![alt text](https://github.com/sarikamohan08/fashion_apparel/blob/master/input%20pic.PNG)
+
+
+![alt text](https://github.com/sarikamohan08/fashion_apparel/blob/master/output%20pic.PNG)
 
